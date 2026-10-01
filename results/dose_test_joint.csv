@@ -1,0 +1,3 @@
+control_corrected,n_obs,chi2_shared,chi2_ecc50_free,AICc_shared,AICc_EC50free,rho_hat,rho_lo,rho_hi,Emax_T_shared
+False,40,94.0,69.8,105.7,84.3,1.77,1.51,2.09,7.6
+True,40,100.1,78.5,111.9,93.0,1.74,1.51,2.09,7.46

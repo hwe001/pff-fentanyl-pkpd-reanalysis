@@ -22,3 +22,17 @@ references:
     start: 287
     end: 297
     doi: "10.1007/s00204-024-03887-z"
+  - type: article
+    title: "Enhanced pharmacokinetic and pharmacodynamic effects of combining p-fluorofentanyl and fentanyl"
+    authors:
+      - family-names: Canfield
+        given-names: Jeremy R.
+      - family-names: Fry
+        given-names: Kayla K.
+      - family-names: Sprague
+        given-names: Jon E.
+    journal: "Drug and Alcohol Dependence"
+    year: 2025
+    volume: 272
+    start: 112710
+    doi: "10.1016/j.drugalcdep.2025.112710"

@@ -1,0 +1,11 @@
+drug,t_min,plasma_ng_per_mL,source
+fentanyl,30,34.08,published Cmax (Table 1)
+fentanyl,60,19.6,digitised
+fentanyl,120,6.0,read by eye
+fentanyl,240,1.4,read by eye
+fentanyl,480,0.5,read by eye
+pFF,30,25.6,published Cmax (Table 1)
+pFF,60,13.8,read by eye
+pFF,120,4.0,read by eye
+pFF,240,1.2,read by eye
+pFF,480,0.4,read by eye

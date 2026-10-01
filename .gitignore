@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+digitisation/dose_ranging_figs/
+digitisation/dad_*

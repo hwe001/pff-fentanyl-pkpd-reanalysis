@@ -1,0 +1,91 @@
+panel,series,t_min,value,lo,hi,note
+Fig3A_temp_fentanyl,fentanyl_200,30,-1.52,-1.76,-0.77,
+Fig3A_temp_fentanyl,fentanyl_200,60,-2.67,-3.02,-1.68,
+Fig3A_temp_fentanyl,fentanyl_200,120,-2.29,-2.73,-0.84,
+Fig3A_temp_fentanyl,fentanyl_200,240,-0.75,-1.11,-0.58,
+Fig3A_temp_fentanyl,fentanyl_200,480,-0.14,-1.06,0.04,
+Fig3A_temp_fentanyl,fentanyl_100,30,-0.94,-1.28,-0.79,partly overlapped
+Fig3A_temp_fentanyl,fentanyl_100,60,-1.84,-2.02,-1.68,
+Fig3A_temp_fentanyl,fentanyl_100,120,-1.0,-1.65,-0.84,
+Fig3A_temp_fentanyl,fentanyl_100,240,,,,hidden
+Fig3A_temp_fentanyl,fentanyl_100,480,,,,hidden
+Fig3A_temp_fentanyl,fentanyl_50,30,0.17,-0.2,0.29,
+Fig3A_temp_fentanyl,fentanyl_50,60,0.69,0.34,0.82,
+Fig3A_temp_fentanyl,fentanyl_50,120,0.3,0.01,0.42,
+Fig3A_temp_fentanyl,fentanyl_50,240,0.07,-0.14,0.2,
+Fig3A_temp_fentanyl,fentanyl_50,480,0.23,0.06,0.36,
+Fig3A_temp_fentanyl,control,30,,,,hidden
+Fig3A_temp_fentanyl,control,60,-0.09,-0.25,0.07,
+Fig3A_temp_fentanyl,control,120,-0.16,-0.31,-0.01,
+Fig3A_temp_fentanyl,control,240,-0.37,-0.41,-0.34,partly overlapped
+Fig3A_temp_fentanyl,control,480,-0.55,-0.6,-0.5,partly overlapped
+Fig3B_temp_pFF,pFF_200,30,-1.68,-1.98,0.45,
+Fig3B_temp_pFF,pFF_200,60,-2.75,-3.19,-2.61,
+Fig3B_temp_pFF,pFF_200,120,-2.13,-2.76,-2.0,
+Fig3B_temp_pFF,pFF_200,240,-1.03,-1.37,-0.89,
+Fig3B_temp_pFF,pFF_200,480,-0.05,-0.31,0.13,
+Fig3B_temp_pFF,pFF_100,30,-1.11,-1.5,-0.96,partly overlapped
+Fig3B_temp_pFF,pFF_100,60,-1.3,-2.03,-1.14,partly overlapped
+Fig3B_temp_pFF,pFF_100,120,-1.08,-1.86,-0.92,partly overlapped
+Fig3B_temp_pFF,pFF_100,240,-0.17,-0.64,-0.03,
+Fig3B_temp_pFF,pFF_100,480,,,,hidden
+Fig3B_temp_pFF,pFF_50,30,0.69,0.46,0.81,
+Fig3B_temp_pFF,pFF_50,60,1.2,0.99,1.34,
+Fig3B_temp_pFF,pFF_50,120,0.71,0.51,0.84,
+Fig3B_temp_pFF,pFF_50,240,-0.02,0.02,0.05,partly overlapped
+Fig3B_temp_pFF,pFF_50,480,,,,hidden
+Fig3B_temp_pFF,control,30,0.26,-1.98,0.43,
+Fig3B_temp_pFF,control,60,-0.08,-3.14,0.07,
+Fig3B_temp_pFF,control,120,-0.16,-0.3,0.0,
+Fig3B_temp_pFF,control,240,,,,hidden
+Fig3B_temp_pFF,control,480,-0.54,-0.59,0.13,partly overlapped
+Fig4A_TF_fentanyl,fentanyl_200,30,99.89,90.86,103.87,
+Fig4A_TF_fentanyl,fentanyl_200,60,99.89,95.92,104.23,
+Fig4A_TF_fentanyl,fentanyl_200,120,89.41,55.8,99.53,
+Fig4A_TF_fentanyl,fentanyl_200,240,41.88,22.18,52.18,
+Fig4A_TF_fentanyl,fentanyl_200,480,19.65,14.23,27.24,
+Fig4A_TF_fentanyl,fentanyl_100,30,,,,hidden
+Fig4A_TF_fentanyl,fentanyl_100,60,,,,hidden
+Fig4A_TF_fentanyl,fentanyl_100,120,58.15,47.12,70.98,
+Fig4A_TF_fentanyl,fentanyl_100,240,24.17,11.7,52.18,
+Fig4A_TF_fentanyl,fentanyl_100,480,,,,hidden
+Fig4A_TF_fentanyl,fentanyl_50,30,,,,hidden
+Fig4A_TF_fentanyl,fentanyl_50,60,59.69,47.12,72.42,
+Fig4A_TF_fentanyl,fentanyl_50,120,34.51,21.46,46.76,
+Fig4A_TF_fentanyl,fentanyl_50,240,16.19,11.34,19.29,
+Fig4A_TF_fentanyl,fentanyl_50,480,9.2,4.11,12.06,
+Fig4A_TF_fentanyl,control,30,-3.12,-7.1,0.85,
+Fig4A_TF_fentanyl,control,60,4.65,-0.95,10.25,
+Fig4A_TF_fentanyl,control,120,1.76,-2.4,5.91,
+Fig4A_TF_fentanyl,control,240,3.56,-0.59,7.72,
+Fig4A_TF_fentanyl,control,480,-3.3,-7.1,0.49,
+Fig4B_TF_pFF,pFF_200,30,96.38,88.81,103.23,partly overlapped
+Fig4B_TF_pFF,pFF_200,60,99.99,97.1,103.23,
+Fig4B_TF_pFF,pFF_200,120,86.46,78.34,99.63,
+Fig4B_TF_pFF,pFF_200,240,31.81,24.24,39.03,
+Fig4B_TF_pFF,pFF_200,480,26.4,23.52,29.65,
+Fig4B_TF_pFF,pFF_100,30,,,,hidden
+Fig4B_TF_pFF,pFF_100,60,86.28,74.38,96.02,
+Fig4B_TF_pFF,pFF_100,120,69.87,58.5,70.41,partly overlapped
+Fig4B_TF_pFF,pFF_100,240,14.5,8.73,18.83,
+Fig4B_TF_pFF,pFF_100,480,43.17,31.81,54.18,
+Fig4B_TF_pFF,pFF_50,30,75.62,72.93,92.41,partly overlapped
+Fig4B_TF_pFF,pFF_50,60,70.67,58.87,72.57,partly overlapped
+Fig4B_TF_pFF,pFF_50,120,25.83,17.74,33.25,
+Fig4B_TF_pFF,pFF_50,240,20.9,22.43,23.88,partly overlapped
+Fig4B_TF_pFF,pFF_50,480,18.6,16.3,20.27,partly overlapped
+Fig4B_TF_pFF,control,30,-3.18,-7.15,103.59,
+Fig4B_TF_pFF,control,60,4.76,-1.01,96.74,
+Fig4B_TF_pFF,control,120,2.05,-2.46,99.63,
+Fig4B_TF_pFF,control,240,3.86,-0.29,38.67,
+Fig4B_TF_pFF,control,480,-3.36,-7.15,30.01,
+Fig2_plasma,fentanyl_100,30,33.56,,,
+Fig2_plasma,fentanyl_100,60,19.57,,,
+Fig2_plasma,fentanyl_100,120,8.63,,,hollow marker chosen (filled one hidden)
+Fig2_plasma,fentanyl_100,240,1.7,,,hollow marker chosen (filled one hidden)
+Fig2_plasma,fentanyl_100,480,0.49,,,hollow marker chosen (filled one hidden)
+Fig2_plasma,pFF_100,30,25.59,,,
+Fig2_plasma,pFF_100,60,14.19,,,
+Fig2_plasma,pFF_100,120,4.88,,,
+Fig2_plasma,pFF_100,240,,,,hidden
+Fig2_plasma,pFF_100,480,,,,hidden

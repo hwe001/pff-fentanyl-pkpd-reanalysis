@@ -3,3 +3,4 @@ scipy
 pandas
 matplotlib
 pillow
+pymupdf   # only for extracting figures from the dose-ranging PDF
