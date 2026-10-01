@@ -1,0 +1,96 @@
+panel,group,region,value
+A_conc_ng_per_g,fentanyl,Hippocampus,1788.84
+A_conc_ng_per_g,fentanyl,Hippocampus,1721.33
+A_conc_ng_per_g,fentanyl,Hippocampus,935.63
+A_conc_ng_per_g,fentanyl,Hippocampus,843.05
+A_conc_ng_per_g,fentanyl,Hippocampus,823.27
+A_conc_ng_per_g,fentanyl,Hippocampus,523.88
+A_conc_ng_per_g,fentanyl,Medulla,2278.67
+A_conc_ng_per_g,fentanyl,Medulla,1571.65
+A_conc_ng_per_g,fentanyl,Medulla,1296.54
+A_conc_ng_per_g,fentanyl,Medulla,1259.25
+A_conc_ng_per_g,fentanyl,Medulla,1009.36
+A_conc_ng_per_g,fentanyl,Medulla,556.28
+A_conc_ng_per_g,fentanyl,Striatum,1631.46
+A_conc_ng_per_g,fentanyl,Striatum,1344.66
+A_conc_ng_per_g,fentanyl,Striatum,997.17
+A_conc_ng_per_g,fentanyl,Striatum,948.22
+A_conc_ng_per_g,fentanyl,Striatum,778.32
+A_conc_ng_per_g,fentanyl,Striatum,737.47
+A_conc_ng_per_g,fentanyl,Frontal Cortex,1967.64
+A_conc_ng_per_g,fentanyl,Frontal Cortex,1668.29
+A_conc_ng_per_g,fentanyl,Frontal Cortex,1267.39
+A_conc_ng_per_g,fentanyl,Frontal Cortex,1025.5
+A_conc_ng_per_g,fentanyl,Frontal Cortex,745.96
+A_conc_ng_per_g,fentanyl,Frontal Cortex,745.96
+A_conc_ng_per_g,pFF,Hippocampus,3047.39
+A_conc_ng_per_g,pFF,Hippocampus,2752.07
+A_conc_ng_per_g,pFF,Hippocampus,2554.21
+A_conc_ng_per_g,pFF,Hippocampus,2485.09
+A_conc_ng_per_g,pFF,Hippocampus,1990.82
+A_conc_ng_per_g,pFF,Hippocampus,1371.36
+A_conc_ng_per_g,pFF,Medulla,3323.13
+A_conc_ng_per_g,pFF,Medulla,3267.07
+A_conc_ng_per_g,pFF,Medulla,2618.98
+A_conc_ng_per_g,pFF,Medulla,2550.16
+A_conc_ng_per_g,pFF,Medulla,2404.34
+A_conc_ng_per_g,pFF,Medulla,1319.34
+A_conc_ng_per_g,pFF,Striatum,2493.53
+A_conc_ng_per_g,pFF,Striatum,2383.96
+A_conc_ng_per_g,pFF,Striatum,1984.63
+A_conc_ng_per_g,pFF,Striatum,1729.82
+A_conc_ng_per_g,pFF,Striatum,1412.36
+A_conc_ng_per_g,pFF,Frontal Cortex,3108.41
+A_conc_ng_per_g,pFF,Frontal Cortex,2861.65
+A_conc_ng_per_g,pFF,Frontal Cortex,2744.33
+A_conc_ng_per_g,pFF,Frontal Cortex,2553.04
+A_conc_ng_per_g,pFF,Frontal Cortex,2521.42
+A_conc_ng_per_g,pFF,Frontal Cortex,2117.42
+B_brain_plasma_ratio,fentanyl,Hippocampus,18.84
+B_brain_plasma_ratio,fentanyl,Hippocampus,18.03
+B_brain_plasma_ratio,fentanyl,Hippocampus,16.14
+B_brain_plasma_ratio,fentanyl,Hippocampus,15.82
+B_brain_plasma_ratio,fentanyl,Hippocampus,11.4
+B_brain_plasma_ratio,fentanyl,Hippocampus,11.08
+B_brain_plasma_ratio,fentanyl,Medulla,23.92
+B_brain_plasma_ratio,fentanyl,Medulla,20.74
+B_brain_plasma_ratio,fentanyl,Medulla,20.47
+B_brain_plasma_ratio,fentanyl,Medulla,17.47
+B_brain_plasma_ratio,fentanyl,Medulla,15.83
+B_brain_plasma_ratio,fentanyl,Medulla,12.04
+B_brain_plasma_ratio,fentanyl,Striatum,19.02
+B_brain_plasma_ratio,fentanyl,Striatum,15.97
+B_brain_plasma_ratio,fentanyl,Striatum,15.65
+B_brain_plasma_ratio,fentanyl,Striatum,14.83
+B_brain_plasma_ratio,fentanyl,Striatum,13.61
+B_brain_plasma_ratio,fentanyl,Striatum,12.7
+B_brain_plasma_ratio,fentanyl,Frontal Cortex,27.38
+B_brain_plasma_ratio,fentanyl,Frontal Cortex,19.83
+B_brain_plasma_ratio,fentanyl,Frontal Cortex,15.24
+B_brain_plasma_ratio,fentanyl,Frontal Cortex,15.07
+B_brain_plasma_ratio,fentanyl,Frontal Cortex,14.34
+B_brain_plasma_ratio,fentanyl,Frontal Cortex,13.78
+B_brain_plasma_ratio,pFF,Hippocampus,57.64
+B_brain_plasma_ratio,pFF,Hippocampus,40.13
+B_brain_plasma_ratio,pFF,Hippocampus,36.07
+B_brain_plasma_ratio,pFF,Hippocampus,32.68
+B_brain_plasma_ratio,pFF,Hippocampus,31.2
+B_brain_plasma_ratio,pFF,Hippocampus,19.11
+B_brain_plasma_ratio,pFF,Medulla,77.15
+B_brain_plasma_ratio,pFF,Medulla,38.26
+B_brain_plasma_ratio,pFF,Medulla,37.76
+B_brain_plasma_ratio,pFF,Medulla,31.45
+B_brain_plasma_ratio,pFF,Medulla,30.3
+B_brain_plasma_ratio,pFF,Medulla,24.46
+B_brain_plasma_ratio,pFF,Striatum,47.25
+B_brain_plasma_ratio,pFF,Striatum,34.8
+B_brain_plasma_ratio,pFF,Striatum,33.49
+B_brain_plasma_ratio,pFF,Striatum,30.62
+B_brain_plasma_ratio,pFF,Striatum,29.65
+B_brain_plasma_ratio,pFF,Striatum,12.96
+B_brain_plasma_ratio,pFF,Frontal Cortex,67.73
+B_brain_plasma_ratio,pFF,Frontal Cortex,58.55
+B_brain_plasma_ratio,pFF,Frontal Cortex,39.86
+B_brain_plasma_ratio,pFF,Frontal Cortex,33.26
+B_brain_plasma_ratio,pFF,Frontal Cortex,30.31
+B_brain_plasma_ratio,pFF,Frontal Cortex,23.21

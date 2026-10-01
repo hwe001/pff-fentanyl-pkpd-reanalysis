@@ -1,0 +1,7 @@
+parameter,estimate,ci_low,ci_high,lower_unbounded,upper_unbounded
+Emax_T (degC),10.0,7.9453,8.9137,False,True
+EC50_T fentanyl (ng/g),1122.6698,795.0976,1259.4934,False,False
+ke0_T (1/min),0.0141,0.0126,0.0158,False,False
+EC50_A fentanyl (ng/g),15.0895,6.0134,42.4784,False,False
+ke0_A (1/min),0.0689,0.0123,0.6872,False,True
+rho = EC50 pFF / fentanyl,1.848,1.4683,2.0732,False,False

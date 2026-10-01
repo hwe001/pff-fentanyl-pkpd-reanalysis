@@ -1,0 +1,13 @@
+drug,t_min,conc_ng_per_mL,error_bar_extent,note
+fentanyl,0,0.0,,baseline (zero by design)
+fentanyl,30,82.13,11.5,
+fentanyl,60,46.6,7.41,
+fentanyl,120,15.66,3.32,
+fentanyl,240,3.9,2.81,
+fentanyl,480,0.71,3.2,
+pFF,0,0.0,,baseline (zero by design)
+pFF,30,112.58,16.39,
+pFF,60,63.11,9.36,
+pFF,120,22.85,3.09,
+pFF,240,4.95,3.55,partly hidden by the other marker; accuracy about +/-1 ng/mL
+pFF,480,0.0,0.74,partly hidden by the other marker; accuracy about +/-1 ng/mL

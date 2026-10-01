@@ -1,0 +1,41 @@
+model,endpoint,drug,t_min,observed,predicted,z
+exposure only,temperature,fentanyl,30,-2.42,-2.57,-0.59
+exposure only,temperature,fentanyl,60,-3.6,-3.14,1.86
+exposure only,temperature,fentanyl,120,-3.51,-2.54,1.45
+exposure only,temperature,fentanyl,240,-0.26,-0.98,-0.9
+exposure only,temperature,fentanyl,480,-0.3,-0.09,0.47
+exposure only,tail flick (ceiling),fentanyl,30,100.0,98.12,0.23
+exposure only,tail flick (ceiling),fentanyl,60,100.0,97.97,0.25
+exposure only,tail flick (ceiling),fentanyl,120,100.0,94.49,0.69
+exposure only,tail flick,fentanyl,240,65.87,78.97,1.09
+exposure only,tail flick,fentanyl,480,23.45,23.07,-0.03
+exposure only,temperature,pFF,30,-2.85,-4.38,-3.82
+exposure only,temperature,pFF,60,-4.84,-4.78,0.22
+exposure only,temperature,pFF,120,-5.26,-4.32,2.35
+exposure only,temperature,pFF,240,-1.96,-2.3,-1.02
+exposure only,temperature,pFF,480,0.33,-0.25,-2.33
+exposure only,tail flick (ceiling),pFF,30,100.0,99.42,0.07
+exposure only,tail flick (ceiling),pFF,60,100.0,99.34,0.08
+exposure only,tail flick (ceiling),pFF,120,100.0,98.25,0.22
+exposure only,tail flick,pFF,240,86.73,91.77,0.39
+exposure only,tail flick,pFF,480,57.58,46.88,-0.68
+EC50 differs (rho),temperature,fentanyl,30,-2.42,-2.53,-0.43
+EC50 differs (rho),temperature,fentanyl,60,-3.6,-3.47,0.53
+EC50 differs (rho),temperature,fentanyl,120,-3.51,-3.04,0.7
+EC50 differs (rho),temperature,fentanyl,240,-0.26,-1.37,-1.39
+EC50 differs (rho),temperature,fentanyl,480,-0.3,-0.15,0.33
+EC50 differs (rho),tail flick (ceiling),fentanyl,30,100.0,98.6,0.18
+EC50 differs (rho),tail flick (ceiling),fentanyl,60,100.0,98.44,0.19
+EC50 differs (rho),tail flick (ceiling),fentanyl,120,100.0,95.66,0.54
+EC50 differs (rho),tail flick,fentanyl,240,65.87,82.96,1.43
+EC50 differs (rho),tail flick,fentanyl,480,23.45,28.02,0.34
+EC50 differs (rho),temperature,pFF,30,-2.85,-3.78,-2.31
+EC50 differs (rho),temperature,pFF,60,-4.84,-4.78,0.23
+EC50 differs (rho),temperature,pFF,120,-5.26,-4.32,2.34
+EC50 differs (rho),temperature,pFF,240,-1.96,-2.13,-0.52
+EC50 differs (rho),temperature,pFF,480,0.33,-0.24,-2.3
+EC50 differs (rho),tail flick (ceiling),pFF,30,100.0,99.2,0.1
+EC50 differs (rho),tail flick (ceiling),pFF,60,100.0,99.07,0.12
+EC50 differs (rho),tail flick (ceiling),pFF,120,100.0,97.51,0.31
+EC50 differs (rho),tail flick,pFF,240,86.73,88.66,0.15
+EC50 differs (rho),tail flick,pFF,480,57.58,38.27,-1.23

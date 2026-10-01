@@ -1,0 +1,17 @@
+panel,group,region,mean,mean_plus_sem,sem
+A_conc_ng_per_g,fentanyl,Hippocampus,1097.9,1316.34,218.45
+A_conc_ng_per_g,fentanyl,Medulla,1332.53,1445.79,113.27
+A_conc_ng_per_g,fentanyl,Striatum,1057.45,1219.26,161.81
+A_conc_ng_per_g,fentanyl,Frontal Cortex,1243.53,1437.7,194.17
+A_conc_ng_per_g,pFF,Hippocampus,2360.03,2610.84,250.81
+A_conc_ng_per_g,pFF,Medulla,2562.3,2877.83,315.53
+A_conc_ng_per_g,pFF,Striatum,1987.86,2165.86,177.99
+A_conc_ng_per_g,pFF,Frontal Cortex,2627.02,2643.2,16.18
+B_brain_plasma_ratio,fentanyl,Hippocampus,15.0,16.47,1.47
+B_brain_plasma_ratio,fentanyl,Medulla,18.11,20.07,1.96
+B_brain_plasma_ratio,fentanyl,Striatum,15.0,16.31,1.31
+B_brain_plasma_ratio,fentanyl,Frontal Cortex,17.45,18.44,0.98
+B_brain_plasma_ratio,pFF,Hippocampus,35.79,41.36,5.57
+B_brain_plasma_ratio,pFF,Medulla,39.89,47.74,7.86
+B_brain_plasma_ratio,pFF,Striatum,31.21,35.96,4.75
+B_brain_plasma_ratio,pFF,Frontal Cortex,42.01,49.22,7.2

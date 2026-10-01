@@ -1,0 +1,7 @@
+parameter,fentanyl_mean,fentanyl_SEM,pFF_mean,pFF_SEM
+t_half_h,1.1,0.01,1.12,0.03
+AUC_0_inf_ng_h_per_mL,112.83,10.82,158.77,21.6
+Cmax_ng_per_mL,82.12,11.78,112.57,16.26
+Tmax_h,0.5,,0.5,
+Cl_over_F_mL_per_h,917.6,110.11,697.02,109.87
+Vd_over_F_mL,1524.9,368.52,1121.11,168.08

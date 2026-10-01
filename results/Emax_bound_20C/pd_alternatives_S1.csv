@@ -1,0 +1,6 @@
+model,n_params,chi2,AICc,pFF_multipliers,dAICc
+exposure only,5,36.01,50.3,{},12.8
+EC50 differs (rho),6,19.04,37.5,{'rho': 2.13},0.0
+Emax_T differs,6,19.47,37.94,{'eps': 0.59},0.44
+ke0 differs,6,27.91,46.37,{'kap': 0.33},8.87
+EC50 + ke0 differ,7,17.61,40.94,"{'rho': 1.69, 'kap': 0.69}",3.44

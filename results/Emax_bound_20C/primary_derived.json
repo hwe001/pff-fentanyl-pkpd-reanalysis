@@ -1,0 +1,28 @@
+{
+ "fentanyl": {
+  "nadir_dT": -3.66,
+  "t_nadir_min": 74.0,
+  "peak_brain_ng_g": 1346.0,
+  "t_peak_brain_min": 22.0,
+  "t_MPE_below_50_min": 396.0,
+  "MPE_at_240": 83.8,
+  "MPE_at_480": 29.3,
+  "dT_at_120": -3.19,
+  "dT_at_240": -1.42
+ },
+ "pFF": {
+  "nadir_dT": -5.03,
+  "t_nadir_min": 74.0,
+  "peak_brain_ng_g": 4355.0,
+  "t_peak_brain_min": 20.0,
+  "t_MPE_below_50_min": 426.0,
+  "MPE_at_240": 87.8,
+  "MPE_at_480": 36.4,
+  "dT_at_120": -4.46,
+  "dT_at_240": -2.04
+ },
+ "EC50_T_pFF": 5368.0,
+ "EC50_A_pFF": 30.2,
+ "chi2": 19.04,
+ "n_obs": 20
+}

@@ -1,0 +1,19 @@
+group,t_min,MPE_percent,top,bottom,note,sem_estimate
+control,0,0.0,0.0,0.0,baseline (zero by design),0.0
+control,30,-2.45,9.85,-14.43,,12.3
+control,60,-9.25,5.64,-23.82,,14.89
+control,120,0.46,4.67,-4.07,,4.53
+control,240,15.84,25.07,6.62,,9.23
+control,480,8.23,12.77,4.35,,4.54
+fentanyl,0,0.0,0.0,0.0,baseline (zero by design),0.0
+fentanyl,30,100.0,103.43,91.13,at the 100% ceiling (digitised 100.2),9.07
+fentanyl,60,100.0,103.43,96.96,at the 100% ceiling (digitised 100.2),3.24
+fentanyl,120,100.0,103.43,96.96,at the 100% ceiling (digitised 100.2),3.24
+fentanyl,240,65.87,77.53,53.89,,11.98
+fentanyl,480,23.45,36.73,13.74,,13.28
+pFF,0,0.0,0.0,0.0,baseline (zero by design),0.0
+pFF,30,100.0,,,hidden behind the fentanyl marker; both groups at the 100% ceiling at 30-120 min,
+pFF,60,100.0,,,hidden behind the fentanyl marker; both groups at the 100% ceiling at 30-120 min,
+pFF,120,100.0,,,hidden behind the fentanyl marker; both groups at the 100% ceiling at 30-120 min,
+pFF,240,86.73,99.55,78.82,,12.82
+pFF,480,57.58,71.38,41.91,,15.67

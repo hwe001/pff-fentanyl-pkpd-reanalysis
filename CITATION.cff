@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the source study (Canfield and Sprague 2025) and this archive."
+title: "Data and code for: Brain exposure does not account proportionally for the greater effects of para-fluorofentanyl than fentanyl in rats: a model-based re-analysis of published data"
+type: software
+authors:
+  - family-names: Ho
+    given-names: Harvey
+    orcid: "https://orcid.org/0000-0002-4160-0737"
+license: MIT
+repository-code: "https://github.com/hwe001/pff-fentanyl-pkpd-reanalysis"
+references:
+  - type: article
+    title: "In vivo pharmacokinetic, pharmacodynamic and brain concentration comparison of fentanyl and para-fluorofentanyl in rats"
+    authors:
+      - family-names: Canfield
+        given-names: Jeremy R.
+      - family-names: Sprague
+        given-names: Jon E.
+    journal: "Archives of Toxicology"
+    year: 2025
+    volume: 99
+    start: 287
+    end: 297
+    doi: "10.1007/s00204-024-03887-z"
