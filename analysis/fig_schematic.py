@@ -6,7 +6,7 @@ os.makedirs(RES, exist_ok=True); os.makedirs(FIG, exist_ok=True)
 import matplotlib; matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
-R = os.path.join(RES, 'figures')
+R = FIG
 plt.rcParams.update({'font.family': 'Arial', 'font.size': 9})
 fig, ax = plt.subplots(figsize=(7.2, 3.0)); ax.set_xlim(0, 100); ax.set_ylim(0, 44); ax.axis('off')
 
